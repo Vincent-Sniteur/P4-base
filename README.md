@@ -9,3 +9,5 @@ Analyse 2 : https://tools.pingdom.com/#600ae12088000000
 
 
 Analyse 3 ( best ) :  https://pagespeed.web.dev/report?url=https%3A%2F%2Fvincent-sniteur.github.io%2FP4-base%2F
+
+Analyse 4 ( best ) : https://www.dareboost.com/fr/report/a_36259984c999e901a289c673c?reportIds=a_36259984c999e901a289c673c
