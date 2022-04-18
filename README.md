@@ -15,14 +15,14 @@ Analyse 4 ( best ) : https://www.dareboost.com/fr/report/a_36259984c999e901a289c
 
 ### Problème après analyse :
 
-#Poids du site :
+### Poids du site :
 Images : 93.89% du poids total
 Polices de caractères : 3.34% du poids total
 JavaScript : 1.79% du poids total
 CSS : 0.89% du poids total
 Textes : 0.09% du poids total
 
-#SEO : 
+### SEO : 
 Pas de Meta Description.
 
 Pas de OpenGraph Description.
@@ -34,7 +34,7 @@ Taille des polices.
 Crée Fichier robot.txt
 
 
-#Performance / Vitesse :
+### Performance / Vitesse :
 Différez l'utilisation du code JavaScript
 
 Ajouté un cache plus long
@@ -44,7 +44,7 @@ Changer Taille et Poids des images.
 Ajouter des délimitations aux images.
 
 
-#Accessibilitée :
+### Accessibilitée :
 Remplacer image textuel par vrai texte
 
 Changer certaine police & rendre plus lisible
@@ -56,7 +56,7 @@ Changer LANG en fr_FR
 Titres cohérents aux liens
 
 
-#BONNE PRATIQUE :
+### BONNE PRATIQUE :
 
 Séparez vos styles de votre code HTML.
 
